@@ -5,7 +5,7 @@
   <groupId>com.labiso</groupId>
   <artifactId>servidor</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>servidor</name>
   <url>http://maven.apache.org</url>
@@ -13,7 +13,11 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-
+  
+  <modules>
+  	<module>c1_crear_mapa_activos</module>
+  </modules>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>

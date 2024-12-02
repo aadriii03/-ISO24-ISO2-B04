@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>servidor</name>
+	<name>c1_crear_mapa_activos</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,7 +22,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1733142843783</id>
+			<id>1733142843773</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
