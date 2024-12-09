@@ -6,7 +6,7 @@
   <groupId>com.labiso</groupId>
   <artifactId>cliente</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-
+  <packaging>pom</packaging>
   <name>cliente</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
@@ -15,6 +15,10 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.release>17</maven.compiler.release>
   </properties>
+  
+  <modules>
+  	<module>c1_proponer_datos</module>
+  </modules>
 
   <dependencyManagement>
     <dependencies>
