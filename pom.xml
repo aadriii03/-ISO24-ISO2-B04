@@ -16,6 +16,7 @@
   
   <modules>
   	<module>c1_crear_mapa_activos</module>
+  	<module>c2_acceder_a_metadatos</module>
   </modules>
   
   <dependencies>
